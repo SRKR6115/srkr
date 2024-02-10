@@ -112,33 +112,31 @@ table.center {
   margin-left: auto; 
   margin-right: auto;
 }
+	th, td {
+  background-color: #96D4D4;
+}
 </style>
 <table class="center">
 <h1 align="center">Movies</H1>
 <tr>
-<th>name</th>
-<th>summary</th>
-<th>rating</th>
+<th>NAME</th>
+<th>SUMMARY</th>
+<th>RATING</th>
 </tr>
 <tr>
-<td style="background-color:red;">3476-AB</td>
-<td>76mm Socket</td>
-<td>45.00</td>
+<td>BAHUBALI 1</td>
+<td>DARLING</td>
+<td>9</td>
 </tr>
 <tr>
-<td>3478-AB</td>
-<td style="color:blue;">78mm Socket</td>
-<td>47.50</td>
+<td>BAHUBALI 2</td>
+<td>DARLING</td>
+<td>8.8</td>
 </tr>
 <tr>
-<td>3480-AB</td>
-<td>80mm Socket</td>
-<td>50.00</td>
-</tr>
-<tr>
-<td>3480-AB</td>
-<td>80mm Socket</td>
-<td>50.00</td>
+<td>SALAAR</td>
+<td>DARLING</td>
+<td>9</td>
 </tr>
 </table>
 </body>
