@@ -1,0 +1,38 @@
+body {
+    font-family: "Montserrat",sans-serif;
+    max-width: 50%;
+    margin: auto;
+}
+.header {
+    display: flex;
+    align-items: center;
+    background-color: rgb(82, 42, 13);
+}
+.face
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 10px;
+
+}
+.title
+{
+    flex: 1;
+    margin-left: 20px;
+}
+.white{
+    color: rgb(255, 255, 255);
+}
+.qualification{
+    letter-spacing: 1px;
+    color: aliceblue;
+}
+.italic{
+    font-weight: 300;
+    line-height: 25px;
+}
+.color{
+    color: rgb(82, 42, 13);;
+}
